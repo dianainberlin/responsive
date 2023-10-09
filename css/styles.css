@@ -50,7 +50,9 @@ p {
 }
 
 .contact-link,
-.yoga-link {
+.yoga-link,
+.weather-link,
+.yogurt-link {
   background: var(--primary-color);
   box-shadow: var(--box-shadow);
   color: white;
